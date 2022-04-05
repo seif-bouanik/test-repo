@@ -1,1 +1,1 @@
-print("New Commit To Trigger a Build")
+print("New Commit To Trigger a Build!")
